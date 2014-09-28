@@ -1,0 +1,13 @@
+operating systems by sibsankar haldar
+processes
+threads
+CPU management
+synchronisation
+deadlock
+memory management
+file management
+virtual memory
+IO Devices
+caching
+embeddedOS
+distributed OS

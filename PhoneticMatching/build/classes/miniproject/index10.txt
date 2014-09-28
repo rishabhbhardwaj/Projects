@@ -1,0 +1,17 @@
+operating systems by R.C.Joshi
+processes
+threads
+PCB
+scheduling
+synchronisation
+IPC
+critical section
+semaphores
+mutex
+monitors
+deadlock
+memory management
+buddy systems
+paging 
+segmentation
+file

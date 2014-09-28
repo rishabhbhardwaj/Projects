@@ -1,0 +1,56 @@
+<html>
+<title>name</title>
+<head>
+<style type="text/css">
+body { background-image:url('b18.jpg');}
+.one
+{
+font-family:"Monotype Corsiva";
+font-size:30pt;
+text-align:center;
+text-decoration:underline;
+letter-spacing:2px;
+}
+.qq
+{
+margin-top:150px;
+margin-bottom:150px;
+margin-left:100px;
+margin-right:100px;
+1border-style:solid;
+1border-color:grey;
+1background-image:url(b2.jpeg);
+outline-width:10px;
+}
+</style></head>
+<body>
+<div class="qq">
+<div align="center">
+<font face="Monotype Corsiva" size="6.5pt" color="black">
+<h4>ADD TRAINS</h4></font>
+<form action="add.php" method="post">
+<table border="1" align="center">
+<tr>
+<td>Train Number :</td><td><input type="text" name="train_no" /></td></tr> 
+<tr><td>Train Name :</td><td><input type="text" name="train_name" /> </td></tr>
+<tr><td>Source :</td><td><input type="text" name="source" /></td></tr>
+<tr><td>Destination :</td><td> <input type="text" name="dest"/></td></tr>
+<tr>
+<td align="center" colspan="2"> <input type="submit" value="Submit Details !" /></td></tr>
+</table>
+ 
+</form>
+<br/>
+<br/>
+<font face="Monotype Corsiva" size="6.5pt" color="black">
+<h4>REMOVE TRAINS</h4></font>
+<form action="remove.php" method="post">
+Train Number : <input type="text" name ="train_no" /><br/>
+<br/>
+<input type="submit" value ="Go" />
+</form>
+<br/><br/>
+</div>
+<div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+Electrical Engineering By Kn Srinivas
+electricity
+current
+ampere
+volt
+resistance
+ohm
+power
+watt
+energy
+joule
+ohm law
+electric circuit
+alternate current
+direct current
+resonance
+conductance
+susceptance
+admittance
+magnetism
+electromagnetism
+flux
+generators
+motors

@@ -1,0 +1,176 @@
+ampere
+electric circuit
+FET
+optics
+diffraction
+lasers
+queue
+polarization
+loops
+graph
+stringbuffer
+OOPs
+polymorphism
+graphics
+complexity
+simulation
+power
+clipping
+zener diode
+oscillators
+superposition
+rlc circuits
+galvanometer
+mechanics
+arrays
+structures
+triggers
+RAID
+interfaces
+dielectrics
+processes
+IO Devices
+recursion
+sorting
+cursors
+methods
+IPC
+segmentation
+syntax of PL
+normal forms
+ohm law
+direct current
+admittance
+stablization
+laplace
+polarisation
+polarimeter
+pointers
+servlets
+caching
+trigger
+abstraction
+mutex
+queues
+hashtable
+resistance
+ohm
+resonance
+susceptance
+Bands
+diffusion
+electricity
+current
+fringes
+magnetisation
+ER Model
+overriding
+applets
+swing
+wave
+tree
+DFS
+normalization
+transaction
+number bases
+spreadsheets
+resolution
+quicksort
+tries
+string sorts
+magnetism
+generators
+diodes
+clamping
+gauss law
+thevnin
+transformers
+ammeters
+permitivity
+functions
+stack
+graphs
+files
+SQL
+roles
+oops
+multithreading
+AWT
+dispersion
+electronics
+synchronisation
+deadlock
+swings
+PCB
+intelligence
+priorityqueue
+motors
+doping
+mobility
+amplifiers
+fermi levels
+biasing
+capacitance
+magnets
+linked list
+authorisation
+constructors
+overloading
+threads
+identifiers
+BST
+AVL tree
+DBMS
+ER Modeling
+scheduling
+semaphores
+file
+symantics
+volt
+watt
+joule
+conductance
+flux
+Semiconductors
+rectifiers
+filters
+breakdown
+transistor
+mosfet
+conductors
+norton
+energy bands
+meson decay
+interference
+unions
+trees
+RDBMS
+cursor
+classes
+packages
+laser
+embeddedOS
+data types
+strings
+BFS
+type casting
+monitors
+bags
+energy
+insulators
+ampere law
+voltmeters
+operators
+normalisation
+PLSQL
+objects
+inheritance
+printf
+address
+scanf
+stack 
+digraph
+buddy systems
+paging 
+stacks
+mergesort

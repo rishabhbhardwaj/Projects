@@ -1,0 +1,22 @@
+Basic Electronics By Rakesh kumar
+Semiconductors
+covalent bonds
+Bands
+doping
+mobility
+diffusion
+diodes
+rectifiers
+filters
+clipping
+clamping
+zener diode
+breakdown
+bipolar junction
+transistor
+stablization
+oscillators
+amplifiers
+operational amplifiers
+FET
+mosfet

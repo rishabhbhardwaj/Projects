@@ -1,0 +1,22 @@
+Electrical Engeenering By J.P. tiwari
+current
+gauss law
+coulomb law
+ohm law
+conductors
+insulators
+ampere law
+faraday law
+ampere law
+laplace
+network theorems
+norton
+thevnin
+superposition
+rlc circuits
+electromagnetism
+transformers
+measuring instruments
+galvanometer
+ammeters
+voltmeters

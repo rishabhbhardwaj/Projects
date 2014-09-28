@@ -1,0 +1,15 @@
+Computer Science By C. S. French
+data repesentation
+number bases
+document processing
+main storage
+backing storage
+output devices
+computer architecture
+program structure
+file processing
+spreadsheets
+boolean algebra
+machine logic
+databse architecture
+project management

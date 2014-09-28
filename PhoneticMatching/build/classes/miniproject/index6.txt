@@ -1,0 +1,20 @@
+C and Data structures by P.S Deshpande
+data types
+operators
+control structures
+printf
+address
+pointers
+scanf
+arrays
+functions
+recursion
+strings
+structures
+unions
+files
+stack 
+queue
+linked list
+trees
+graphs

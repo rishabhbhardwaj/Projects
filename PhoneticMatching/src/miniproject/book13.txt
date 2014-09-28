@@ -1,0 +1,7 @@
+Logics For Computer Science By Arindama Singh
+syntax of PL
+normal forms
+symantics
+resolution
+program verification
+modal logics

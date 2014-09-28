@@ -1,0 +1,10 @@
+Engineering physics by P.Khare
+optics
+wave
+diffraction
+polarization
+dispersion
+nuclear physics
+electronics
+dielectrics
+laser

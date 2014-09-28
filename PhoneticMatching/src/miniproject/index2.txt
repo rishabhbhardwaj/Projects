@@ -1,0 +1,11 @@
+Database management by rajesh narang
+ER Model
+RDBMS
+normalisation
+SQL
+triggers
+PLSQL
+RAID
+roles
+authorisation
+cursor

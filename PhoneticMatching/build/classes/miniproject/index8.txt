@@ -1,0 +1,11 @@
+Database management Systems by P.S.Gill
+DBMS
+ER Modeling
+RDBMS
+relational algebra
+SQL
+PLSQL
+normalization
+transaction
+trigger
+cursors

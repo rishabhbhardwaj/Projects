@@ -1,0 +1,13 @@
+Data Structures using C by A.K Sharma
+operators
+arrays
+structures
+unions
+functions
+stack
+queue
+pointers
+linked list
+trees
+graphs
+files

@@ -1,0 +1,8 @@
+<SCRIPT LANGUAGE="JavaScript">
+if (window.print) {
+document.write('<form> '
++ '<input type=button name=print value="Click" '
++ 'onClick="javascript:window.print()"> To Print this page!</form>');
+}
+// End -->
+</script>

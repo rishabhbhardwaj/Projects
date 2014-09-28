@@ -1,0 +1,22 @@
+core java by R.Nageswara Rao
+operators
+control statements
+input/output
+arrays
+strings
+stringbuffer
+OOPs
+classes
+objects
+methods
+inheritance
+polymorphism
+type casting
+abstraction
+interfaces
+packages
+exception handling
+threads
+graphics
+applets
+swings

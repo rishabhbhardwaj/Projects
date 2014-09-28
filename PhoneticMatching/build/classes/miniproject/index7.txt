@@ -1,0 +1,23 @@
+Data Structures in C by T.mahalekshmi
+identifiers
+escape characters
+scanf
+operators
+loops
+arrays
+structures
+pointers
+functions
+linked list
+doubly linked list
+circular linked list
+tree
+BST
+AVL tree
+graph
+digraph
+DFS
+BFS
+binary search
+sorting
+files

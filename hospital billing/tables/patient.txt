@@ -1,0 +1,11 @@
+175,ayushi,Female,B+,20,mathura ,941217830,Admitted
+179,samarth,Male,AB+,20,bareilly,976658431,Admitted
+177,siddharth,Male,A+,20,mathura,957255821,Admitted
+178,vaishali,Female,A+,18,agra,873346521,Admitted
+180,aditi,Female,O+,20,gurgaon,885643852,Admitted
+181,priyanshu,Male,A+,20,bareilly,945877234,Admitted
+182,dubey,Female,A-,20,surat,989975644,Admitted
+183,pulkit,Male,A+,20,bareilly,998766832,Admitted
+184,shubham,Male,B+,22,bareilly,12345678,Discharged
+173,Rohit,Male,AB+,20,Lucknow,993571960,Admitted
+174,pallavi,Female,B+,19,lucknow,961655654,Admitted

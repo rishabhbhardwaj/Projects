@@ -1,0 +1,279 @@
+2,Electrical Engineering By Kn Srinivas,ampere
+3,Electrical Engineering By Kn Srinivas,volt
+4,Electrical Engineering By Kn Srinivas,resistance
+5,Electrical Engineering By Kn Srinivas,ohm
+6,Electrical Engineering By Kn Srinivas,power
+7,Electrical Engineering By Kn Srinivas,watt
+8,Electrical Engineering By Kn Srinivas,energy
+9,Electrical Engineering By Kn Srinivas,joule
+10,Electrical Engineering By Kn Srinivas,ohm law
+11,Electrical Engineering By Kn Srinivas,electric circuit
+12,Electrical Engineering By Kn Srinivas,alternate current
+13,Electrical Engineering By Kn Srinivas,direct current
+14,Electrical Engineering By Kn Srinivas,resonance
+15,Electrical Engineering By Kn Srinivas,conductance
+16,Electrical Engineering By Kn Srinivas,susceptance
+17,Electrical Engineering By Kn Srinivas,admittance
+18,Electrical Engineering By Kn Srinivas,magnetism
+19,Electrical Engineering By Kn Srinivas,electromagnetism
+20,Electrical Engineering By Kn Srinivas,flux
+21,Electrical Engineering By Kn Srinivas,generators
+22,Electrical Engineering By Kn Srinivas,motors
+23,Basic Electronics By Rakesh kumar,Semiconductors
+24,Basic Electronics By Rakesh kumar,covalent bonds
+25,Basic Electronics By Rakesh kumar,Bands
+26,Basic Electronics By Rakesh kumar,doping
+27,Basic Electronics By Rakesh kumar,mobility
+28,Basic Electronics By Rakesh kumar,diffusion
+29,Basic Electronics By Rakesh kumar,diodes
+30,Basic Electronics By Rakesh kumar,rectifiers
+31,Basic Electronics By Rakesh kumar,filters
+32,Basic Electronics By Rakesh kumar,clipping
+0,Electrical Engineering By Kn Srinivas,electricity
+1,Electrical Engineering By Kn Srinivas,current
+33,Basic Electronics By Rakesh kumar,clamping
+34,Basic Electronics By Rakesh kumar,zener diode
+35,Basic Electronics By Rakesh kumar,breakdown
+36,Basic Electronics By Rakesh kumar,bipolar junction
+37,Basic Electronics By Rakesh kumar,transistor
+38,Basic Electronics By Rakesh kumar,stablization
+39,Basic Electronics By Rakesh kumar,oscillators
+40,Basic Electronics By Rakesh kumar,amplifiers
+41,Basic Electronics By Rakesh kumar,operational amplifiers
+42,Basic Electronics By Rakesh kumar,FET
+43,Basic Electronics By Rakesh kumar,mosfet
+44,Electrical Engeenering By J.P. tiwari,current
+45,Electrical Engeenering By J.P. tiwari,gauss law
+46,Electrical Engeenering By J.P. tiwari,coulomb law
+47,Electrical Engeenering By J.P. tiwari,ohm law
+48,Electrical Engeenering By J.P. tiwari,conductors
+49,Electrical Engeenering By J.P. tiwari,insulators
+50,Electrical Engeenering By J.P. tiwari,ampere law
+51,Electrical Engeenering By J.P. tiwari,faraday law
+52,Electrical Engeenering By J.P. tiwari,ampere law
+53,Electrical Engeenering By J.P. tiwari,laplace
+54,Electrical Engeenering By J.P. tiwari,network theorems
+55,Electrical Engeenering By J.P. tiwari,norton
+56,Electrical Engeenering By J.P. tiwari,thevnin
+57,Electrical Engeenering By J.P. tiwari,superposition
+58,Electrical Engeenering By J.P. tiwari,rlc circuits
+59,Electrical Engeenering By J.P. tiwari,electromagnetism
+60,Electrical Engeenering By J.P. tiwari,transformers
+61,Electrical Engeenering By J.P. tiwari,measuring instruments
+62,Electrical Engeenering By J.P. tiwari,galvanometer
+63,Electrical Engeenering By J.P. tiwari,ammeters
+64,Electrical Engeenering By J.P. tiwari,voltmeters
+65,Electronics By Balwinder Singh,Semiconductor
+66,Electronics By Balwinder Singh,doping
+67,Electronics By Balwinder Singh,energy bands
+68,Electronics By Balwinder Singh,fermi levels
+69,Electronics By Balwinder Singh,mobility
+70,Electronics By Balwinder Singh,hall effect
+71,Electronics By Balwinder Singh,filters
+72,Electronics By Balwinder Singh,bipolar transistor
+73,Electronics By Balwinder Singh,biasing
+74,Electronics By Balwinder Singh,capacitance
+75,Electronics By Balwinder Singh,resistance
+76,Electronics By Balwinder Singh,amplifiers
+77,Experimental Physics By S.K. Yadav,mechanics
+78,Experimental Physics By S.K. Yadav,meson decay
+79,Experimental Physics By S.K. Yadav,optics
+80,Experimental Physics By S.K. Yadav,interference
+81,Experimental Physics By S.K. Yadav,fringes
+82,Experimental Physics By S.K. Yadav,fresnel biprism
+83,Experimental Physics By S.K. Yadav,diffraction
+84,Experimental Physics By S.K. Yadav,polarisation
+85,Experimental Physics By S.K. Yadav,nicol prism
+86,Experimental Physics By S.K. Yadav,polarimeter
+87,Experimental Physics By S.K. Yadav,lasers
+88,Experimental Physics By S.K. Yadav,electromagnetic
+89,Experimental Physics By S.K. Yadav,flux
+90,Experimental Physics By S.K. Yadav,magnetism
+91,Experimental Physics By S.K. Yadav,magnetisation
+92,Experimental Physics By S.K. Yadav,susceptilbility
+93,Experimental Physics By S.K. Yadav,permitivity
+94,Experimental Physics By S.K. Yadav,magnets
+95,Data Structures using C by A.K Sharma,operators
+96,Data Structures using C by A.K Sharma,arrays
+97,Data Structures using C by A.K Sharma,structures
+98,Data Structures using C by A.K Sharma,unions
+99,Data Structures using C by A.K Sharma,functions
+100,Data Structures using C by A.K Sharma,stack
+101,Data Structures using C by A.K Sharma,queue
+102,Data Structures using C by A.K Sharma,pointers
+103,Data Structures using C by A.K Sharma,linked list
+104,Data Structures using C by A.K Sharma,trees
+105,Data Structures using C by A.K Sharma,graphs
+106,Data Structures using C by A.K Sharma,files
+107,Database management by rajesh narang,ER Model
+108,Database management by rajesh narang,RDBMS
+109,Database management by rajesh narang,normalisation
+110,Database management by rajesh narang,SQL
+111,Database management by rajesh narang,triggers
+112,Database management by rajesh narang,PLSQL
+113,Database management by rajesh narang,RAID
+114,Database management by rajesh narang,roles
+115,Database management by rajesh narang,authorisation
+116,Database management by rajesh narang,cursor
+117,Java the complete reference by herbert schildt,operators
+118,Java the complete reference by herbert schildt,classes
+119,Java the complete reference by herbert schildt,objects
+120,Java the complete reference by herbert schildt,constructors
+121,Java the complete reference by herbert schildt,overloading
+122,Java the complete reference by herbert schildt,overriding
+123,Java the complete reference by herbert schildt,interfaces
+124,Java the complete reference by herbert schildt,packages
+125,Java the complete reference by herbert schildt,inheritance
+126,Java the complete reference by herbert schildt,oops
+127,Java the complete reference by herbert schildt,multithreading
+128,Java the complete reference by herbert schildt,applets
+129,Java the complete reference by herbert schildt,servlets
+130,Java the complete reference by herbert schildt,AWT
+131,Java the complete reference by herbert schildt,swing
+132,Engineering physics by P.Khare,optics
+133,Engineering physics by P.Khare,wave
+134,Engineering physics by P.Khare,diffraction
+135,Engineering physics by P.Khare,polarization
+136,Engineering physics by P.Khare,dispersion
+137,Engineering physics by P.Khare,nuclear physics
+138,Engineering physics by P.Khare,electronics
+139,Engineering physics by P.Khare,dielectrics
+140,Engineering physics by P.Khare,laser
+141,operating systems by sibsankar haldar,processes
+142,operating systems by sibsankar haldar,threads
+143,operating systems by sibsankar haldar,CPU management
+144,operating systems by sibsankar haldar,synchronisation
+145,operating systems by sibsankar haldar,deadlock
+146,operating systems by sibsankar haldar,memory management
+147,operating systems by sibsankar haldar,file management
+148,operating systems by sibsankar haldar,virtual memory
+149,operating systems by sibsankar haldar,IO Devices
+150,operating systems by sibsankar haldar,caching
+151,operating systems by sibsankar haldar,embeddedOS
+152,operating systems by sibsankar haldar,distributed OS
+153,C and Data structures by P.S Deshpande,data types
+154,C and Data structures by P.S Deshpande,operators
+155,C and Data structures by P.S Deshpande,control structures
+156,C and Data structures by P.S Deshpande,printf
+157,C and Data structures by P.S Deshpande,address
+158,C and Data structures by P.S Deshpande,pointers
+159,C and Data structures by P.S Deshpande,scanf
+160,C and Data structures by P.S Deshpande,arrays
+161,C and Data structures by P.S Deshpande,functions
+162,C and Data structures by P.S Deshpande,recursion
+163,C and Data structures by P.S Deshpande,strings
+164,C and Data structures by P.S Deshpande,structures
+165,C and Data structures by P.S Deshpande,unions
+166,C and Data structures by P.S Deshpande,files
+167,C and Data structures by P.S Deshpande,stack 
+168,C and Data structures by P.S Deshpande,queue
+169,C and Data structures by P.S Deshpande,linked list
+170,C and Data structures by P.S Deshpande,trees
+171,C and Data structures by P.S Deshpande,graphs
+172,Data Structures in C by T.mahalekshmi,identifiers
+173,Data Structures in C by T.mahalekshmi,escape characters
+174,Data Structures in C by T.mahalekshmi,scanf
+175,Data Structures in C by T.mahalekshmi,operators
+176,Data Structures in C by T.mahalekshmi,loops
+177,Data Structures in C by T.mahalekshmi,arrays
+178,Data Structures in C by T.mahalekshmi,structures
+179,Data Structures in C by T.mahalekshmi,pointers
+180,Data Structures in C by T.mahalekshmi,functions
+181,Data Structures in C by T.mahalekshmi,linked list
+182,Data Structures in C by T.mahalekshmi,doubly linked list
+183,Data Structures in C by T.mahalekshmi,circular linked list
+184,Data Structures in C by T.mahalekshmi,tree
+185,Data Structures in C by T.mahalekshmi,BST
+186,Data Structures in C by T.mahalekshmi,AVL tree
+187,Data Structures in C by T.mahalekshmi,graph
+188,Data Structures in C by T.mahalekshmi,digraph
+189,Data Structures in C by T.mahalekshmi,DFS
+190,Data Structures in C by T.mahalekshmi,BFS
+191,Data Structures in C by T.mahalekshmi,binary search
+192,Data Structures in C by T.mahalekshmi,sorting
+193,Data Structures in C by T.mahalekshmi,files
+194,Database management Systems by P.S.Gill,DBMS
+195,Database management Systems by P.S.Gill,ER Modeling
+196,Database management Systems by P.S.Gill,RDBMS
+197,Database management Systems by P.S.Gill,relational algebra
+198,Database management Systems by P.S.Gill,SQL
+199,Database management Systems by P.S.Gill,PLSQL
+200,Database management Systems by P.S.Gill,normalization
+201,Database management Systems by P.S.Gill,transaction
+202,Database management Systems by P.S.Gill,trigger
+203,Database management Systems by P.S.Gill,cursors
+204,core java by R.Nageswara Rao,operators
+205,core java by R.Nageswara Rao,control statements
+206,core java by R.Nageswara Rao,input/output
+207,core java by R.Nageswara Rao,arrays
+208,core java by R.Nageswara Rao,strings
+209,core java by R.Nageswara Rao,stringbuffer
+210,core java by R.Nageswara Rao,OOPs
+211,core java by R.Nageswara Rao,classes
+212,core java by R.Nageswara Rao,objects
+213,core java by R.Nageswara Rao,methods
+214,core java by R.Nageswara Rao,inheritance
+215,core java by R.Nageswara Rao,polymorphism
+216,core java by R.Nageswara Rao,type casting
+217,core java by R.Nageswara Rao,abstraction
+218,core java by R.Nageswara Rao,interfaces
+219,core java by R.Nageswara Rao,packages
+220,core java by R.Nageswara Rao,exception handling
+221,core java by R.Nageswara Rao,threads
+222,core java by R.Nageswara Rao,graphics
+223,core java by R.Nageswara Rao,applets
+224,core java by R.Nageswara Rao,swings
+225,operating systems by R.C.Joshi,processes
+226,operating systems by R.C.Joshi,threads
+227,operating systems by R.C.Joshi,PCB
+228,operating systems by R.C.Joshi,scheduling
+229,operating systems by R.C.Joshi,synchronisation
+230,operating systems by R.C.Joshi,IPC
+231,operating systems by R.C.Joshi,critical section
+232,operating systems by R.C.Joshi,semaphores
+233,operating systems by R.C.Joshi,mutex
+234,operating systems by R.C.Joshi,monitors
+235,operating systems by R.C.Joshi,deadlock
+236,operating systems by R.C.Joshi,memory management
+237,operating systems by R.C.Joshi,buddy systems
+238,operating systems by R.C.Joshi,paging 
+239,operating systems by R.C.Joshi,segmentation
+240,operating systems by R.C.Joshi,file
+241,Computer Science By C. S. French,data repesentation
+242,Computer Science By C. S. French,number bases
+243,Computer Science By C. S. French,document processing
+244,Computer Science By C. S. French,main storage
+245,Computer Science By C. S. French,backing storage
+246,Computer Science By C. S. French,output devices
+247,Computer Science By C. S. French,computer architecture
+248,Computer Science By C. S. French,program structure
+249,Computer Science By C. S. French,file processing
+250,Computer Science By C. S. French,spreadsheets
+251,Computer Science By C. S. French,boolean algebra
+252,Computer Science By C. S. French,machine logic
+253,Computer Science By C. S. French,databse architecture
+254,Computer Science By C. S. French,project management
+255,Computer Science: By NRS (U.S.),complexity
+256,Computer Science: By NRS (U.S.),computability
+257,Computer Science: By NRS (U.S.),simulation
+258,Computer Science: By NRS (U.S.),abstraction
+259,Computer Science: By NRS (U.S.),intelligence
+260,Logics For Computer Science By Arindama Singh,syntax of PL
+261,Logics For Computer Science By Arindama Singh,normal forms
+262,Logics For Computer Science By Arindama Singh,symantics
+263,Logics For Computer Science By Arindama Singh,resolution
+264,Logics For Computer Science By Arindama Singh,program verification
+265,Logics For Computer Science By Arindama Singh,modal logics
+266,"Algorithms By Robert Sedgewick, Kevin Wayne",abstraction
+267,"Algorithms By Robert Sedgewick, Kevin Wayne",bags
+268,"Algorithms By Robert Sedgewick, Kevin Wayne",queues
+269,"Algorithms By Robert Sedgewick, Kevin Wayne",stacks
+270,"Algorithms By Robert Sedgewick, Kevin Wayne",mergesort
+271,"Algorithms By Robert Sedgewick, Kevin Wayne",quicksort
+272,"Algorithms By Robert Sedgewick, Kevin Wayne",priorityqueue
+273,"Algorithms By Robert Sedgewick, Kevin Wayne",binarysearchtree
+274,"Algorithms By Robert Sedgewick, Kevin Wayne",balancedsearchtree
+275,"Algorithms By Robert Sedgewick, Kevin Wayne",hashtable
+276,"Algorithms By Robert Sedgewick, Kevin Wayne",graph
+277,"Algorithms By Robert Sedgewick, Kevin Wayne",tries
+278,"Algorithms By Robert Sedgewick, Kevin Wayne",string sorts

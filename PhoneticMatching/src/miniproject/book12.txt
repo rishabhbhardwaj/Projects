@@ -1,0 +1,6 @@
+Computer Science: By NRS (U.S.)
+complexity
+computability
+simulation
+abstraction
+intelligence

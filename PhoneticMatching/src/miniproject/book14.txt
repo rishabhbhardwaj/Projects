@@ -1,0 +1,14 @@
+Algorithms By Robert Sedgewick, Kevin Wayne
+abstraction
+bags
+queues
+stacks
+mergesort
+quicksort
+priorityqueue
+binarysearchtree
+balancedsearchtree
+hashtable
+graph
+tries
+string sorts

@@ -1,0 +1,29 @@
+<html>
+<title>--Welcome User--</title>
+<head>
+<style type="text/css">
+body { background-image:url(1afterlogin.jpeg);}
+.one
+{
+font-family:"Monotype Corsiva";
+margin-left:25px;
+font-size:30pt;
+}
+.t
+{margin-top:35px;
+margin-left:400px;
+}
+.t2 {margin-top:37px;}
+</style></head>
+<body>
+<p class="t2"><hr/></p>
+<h1 class="t"><font face="Lucida Handwriting" size=30pt> Welcome <?php session_start;
+$user=$_SESSION["name"];
+echo $user;
+?> </font></h1><hr/>
+<br/>
+<h3 class="one"><a href="book1.html">Book Ticket</a></h3>
+<h3 class="one"><a href="">Booking History</a></h3>
+<h3 align="center"><img src="train1.jpeg"></h3>
+</body>
+</html> 
